@@ -11,9 +11,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/raghavb599039804" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="raghavb599039804" height="30" width="40" /></a>
-<a href="https://fb.com/raghavendra baheti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="raghavendra baheti" height="30" width="40" /></a>
-<a href="https://instagram.com/_.raghav_baheti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.raghav_baheti" height="30" width="40" /></a>
+<a href="https://twitter.com/raghavb599039804" target="blank"><img align="center" src="https://raw.githubusercontent.com/raghavrndrabaheti/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="raghavb599039804" height="30" width="40" /></a>
+<a href="https://fb.com/raghavendra baheti" target="blank"><img align="center" src="https://raw.githubusercontent.com/raghavendra baheti/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="raghavendra baheti" height="30" width="40" /></a>
+<a href="https://instagram.com/_.raghav_baheti" target="blank"><img align="center" src="https://raw.githubusercontent.com/raghavendrabaheti/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.raghav_baheti" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
