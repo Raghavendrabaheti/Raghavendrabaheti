@@ -1,11 +1,20 @@
-# Hi 👋, I'm Raghavendra Baheti
+<h1 align="center">  Hi 👋,<br> I'm Raghavendra Baheti 💫</h1>
 
-## A passionate Software Engineer Developer from India
+<h3 align="center"> Growing Developer || Java Developer || MERN Stack </h3>
+<p align='center' style='margin: 16px 4px 8px;'>
+    <img src="https://readme-typing-svg.herokuapp.com?font=fire+code&pause=1000&color=54A6FF&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Welcome+to+my+GitHub+Profile." alt="Welcome to my GitHub Profile. " />
+</p>
+
+#
 
 ![Profile Views](https://komarev.com/ghpvc/?username=raghavendrabaheti&label=Profile%20views&color=0e75b6&style=flat)
-
+<p align="center">
 🌱 I’m currently learning **Java, C++, and DSA**.  
-📫 Reach me at **bahetiraghav990@gmail.com**
+</p>
+<p align="center">
+📫 Reach me at **bahetiraghav990@gmail.com** 
+</p>
+
 
 ### Connect with me:
 <a href="https://twitter.com/raghavb599039804" target="_blank">
