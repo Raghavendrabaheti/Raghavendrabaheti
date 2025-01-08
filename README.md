@@ -3,40 +3,86 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="gith.css">
+    <style>
+        body {
+            background-color: #0d1117;
+            color: #c9d1d9;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        h1, h3 {
+            color: #58a6ff;
+        }
+        a {
+            text-decoration: none;
+            color: #58a6ff;
+        }
+        .connect-icons img {
+            border-radius: 10%;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+            margin: 10px;
+            transition: transform 0.2s;
+        }
+        .connect-icons img:hover {
+            transform: scale(1.1);
+        }
+        .languages img {
+            margin: 10px;
+            border-radius: 5px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+            transition: transform 0.2s;
+        }
+        .languages img:hover {
+            transform: scale(1.1);
+        }
+        .stats {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            flex-wrap: wrap;
+        }
+        .stats img {
+            border-radius: 10px;
+        }
+    </style>
 </head>
-<link rel="stylesheet" href="gith.css">
 <body>
-    <h1 align="center">Hii 👋, I'm Raghavendra baheti</h1>
-<h3 align="center">A passionate Software Engineer developer from India</h3>
+    <h1 align="center">Hi 👋, I'm Raghavendra Baheti</h1>
+    <h3 align="center">A passionate Software Engineer Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raghavendrabaheti&label=Profile%20views&color=0e75b6&style=flat" alt="raghavendrabaheti" /> </p>
+    <p align="center">
+        <img src="https://komarev.com/ghpvc/?username=raghavendrabaheti&label=Profile%20views&color=58a6ff&style=flat" alt="Profile Views">
+    </p>
 
-- 🌱 I’m currently learning Java, SpringBoot and DSA etc.
+    <p align="center">
+        🌱 I’m currently learning <strong>Java, C++, and DSA</strong>. <br>
+        📫 Reach me at <strong>bahetiraghav990@gmail.com</strong>.
+    </p>
 
-- 📫 How to reach me **bahetiraghav990@gmail.com**
+    <h3 align="center">Connect with me:</h3>
+    <div class="connect-icons" align="center">
+        <a href="https://twitter.com/raghavb599039804" target="_blank">
+            <img src="https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg" alt="Twitter" height="50" width="60">
+        </a>
+        <a href="https://www.linkedin.com/in/raghavendra-baheti-909109244" target="_blank">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" height="50" width="60">
+        </a>
+    </div>
 
+    <h3 align="center">Languages and Tools:</h3>
+    <div class="languages" align="center">
+        <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" height="50" width="60">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" height="50" width="60">
+        <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" height="50" width="60">
+    </div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/raghavb599039804" target="blank"><img style="margin: 10px;" align="center" src="https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg?w=740&t=st=1700543378~exp=1700543978~hmac=520447542ca3fd6c0725a4da1bbf8da574fdbf263ad322140aa2ef5aa1cf9071" alt="raghavb599039804" height="50" width="60" /></a>
-<a href="https://fb.com/raghavendra baheti" target="blank"><img align="center" src="https://img.freepik.com/free-psd/3d-square-with-facebook-logo_125540-1565.jpg?size=626&ext=jpg&ga=GA1.1.2055452068.1687591029&semt=ais" alt="raghavendra baheti" height="50" width="60" /></a>
-
-<a href="https://instagram.com/_.raghav_baheti" target="blank"><img align="center" src="https://img.freepik.com/free-vector/instagram-icon_1057-2227.jpg?size=626&ext=jpg&ga=GA1.1.2055452068.1687591029&semt=ais" alt="_.raghav_baheti" height="50" width="60" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="c" width="60" height="50"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp78wjekai9mUjyA_PduXuSjCCw6x3fSl8VFzZch0f&s" alt="cplusplus" width="60" height="50"/> </a>
-<a href="[https://www.w3schools.com/cpp/](https://www.w3schools.com/html/default.asp)" target="_blank" rel="noreferrer"> <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-html-5728485-4781249.png?f=webp" alt="HTML" width="60" height="50"/> </a>
-<a href="[https://www.w3schools.com/cpp/](https://www.w3schools.com/css/default.asp)" target="_blank" rel="noreferrer"> <img src="https://rukminim2.flixcart.com/image/850/1000/ksnjp8w0/laptop-skin-decal/t/h/9/css-logo-laptop-trackpad-stickers-woopme-15-6-original-imag66dsgjmrq5pp.jpeg?q=90" alt="CSS" width="60" height="50"/> </a></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raghavendrabaheti&show_icons=true&locale=en&layout=compact" alt="raghavendrabaheti" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raghavendrabaheti&show_icons=true&locale=en" alt="raghavendrabaheti" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raghavendrabaheti&" alt="raghavendrabaheti" /></p>
-
-
-
- 
+    <h3 align="center">GitHub Stats:</h3>
+    <div class="stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=raghavendrabaheti&show_icons=true&theme=radical" alt="GitHub Stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=raghavendrabaheti&theme=radical" alt="GitHub Streak">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raghavendrabaheti&layout=compact&theme=radical" alt="Top Languages">
+    </div>
 </body>
 </html>
