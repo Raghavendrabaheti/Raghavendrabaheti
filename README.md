@@ -101,7 +101,7 @@
 
 ## 🚀 Fun Projects to Check Out  
 
-- 📌 **[Quiz App](quizdsa.netlify.app)** – Interactive Quiz of DSA 
+- 📌 **[Quiz App](https://github.com/raghavendrabaheti/Quiz)** – Interactive Quiz of DSA 
 - 📌 **[Portfolio Website](https://github.com/raghavendrabaheti/Portfolio)** – My Personal Developer Portfolio  
 - 📌 **[DSA Practice Repo](https://github.com/raghavendrabaheti/JAVA_PROGRAMMING)** – My Solutions for DSA Problems  
 
