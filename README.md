@@ -12,56 +12,30 @@
 </p>
 
 ## 🚀 About Me  
-💡 Passionate about **Java, C++, and DSA**  
-🎯 **Currently Learning:** Devops & Advanced Algorithms  
-🔭 **Working On:** Backend Development & Web Apps  
-💬 **Ask Me About:** Java, C++, DSA, OOP, Devops and Web Technologies  
-📫 **Reach Me At:** **bahetiraghav990@gmail.com**  
-📌 **Fun Fact:** I love solving **complex problems** & writing **clean code** ✨  
+- 🔭 Currently improving my **Java & DSA skills**
+- 🌱 Exploring **System Design & Backend Development**
+- 🚀 Passionate about **Tech & Open-Source**  
+💬 **Ask Me About:** Java, C++, DSA, OOP, Linux and Web Technologies  
+📫 **Reach Me At:** **bahetiraghav990@gmail.com**
 
 ---
 
-## 🛠️ Languages & Tools  
-
-### **💻 Programming Languages**
+## 🛠 **Languages & Tools:**  
 <p align="left">
     <a href="https://www.java.com" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
+        <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/>
     </a>
     <a href="https://www.cplusplus.com/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
+        <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/>
     </a>
-    <a href="https://www.python.org/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-    </a>
-</p>
-
-### **🖥️ Frontend Development**
-<p align="left">
     <a href="https://reactjs.org/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/>
+        <img src="https://img.icons8.com/officel/40/000000/react.png" alt="React"/>
     </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-    </a>
-</p>
-
-### **⚙️ Backend & Database**
-<p align="left">
-    <a href="https://nodejs.org/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
+    <a href="https://git-scm.com/" target="_blank">
+        <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
     </a>
     <a href="https://www.mongodb.com/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>
-    </a>
-    <a href="https://www.mysql.com/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
+        <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/>
     </a>
 </p>
 
@@ -89,11 +63,14 @@
 ## 🤝 Connect With Me  
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/raghavendra-baheti-909109244" target="_blank">
+   <a href="https://twitter.com/raghavb599039804" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40" style="margin: 10px;"/>
+    </a>
+     <a href="https://www.linkedin.com/in/raghavendra-baheti-909109244" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" style="margin: 10px;"/>
     </a>
-      <a href="https://twitter.com/raghavb599039804" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40" style="margin: 10px;"/>
+    <a href="mailto:bahetiraghav990@gmail.com">
+        <img src="https://img.icons8.com/ios-filled/50/000000/gmail.png" alt="Email" width="40" height="40"/>
     </a>
 </p>
 
@@ -110,9 +87,7 @@
 ## 📌 Fun Fact  
 🎯 **"The best way to learn is to build and break things!"** 🚀  
 
-If you liked my work, **drop a star ⭐ on my repositories** and connect with me!  
-Thanks for visiting! 🎉  
-
+### ⭐ **If you like my work, consider giving a star!**  
 <p align="center">
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/>
+    <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="150"/>
 </p>
