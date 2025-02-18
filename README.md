@@ -46,16 +46,16 @@
 <table align="center">
 <tr>
 <td>
-    <img src="https://github-readme-stats.vercel.app/api?username=raghavendrabaheti&show_icons=true&theme=radical" alt="GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Raghavendrabaheti&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </td>
 <td>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=raghavendrabaheti&theme=radical" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raghavendrabaheti&theme=radical" alt="GitHub Streak" />
 </td>
 </tr>
 </table>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raghavendrabaheti&layout=compact&theme=radical" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Raghavendrabaheti&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
