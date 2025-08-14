@@ -17,7 +17,7 @@
 - 🔭 Currently improving my **Python & DSA skills**
 - 🌱 Exploring **System Design & Backend Development**
 - 🚀 Passionate about **Tech & Open-Source**  
-💬 **Ask Me About:** Java, C++, DSA, OOP, Linux and Web Technologies  
+💬 **Ask Me About:** Python, C, DSA, OOP, Linux and Web Technologies  
 📫 **Reach Me At:** **bahetiraghav990@gmail.com**
 
 ---
