@@ -14,7 +14,7 @@
 
 
 ## 🚀 About Me  
-- 🔭 Currently improving my **Java & DSA skills**
+- 🔭 Currently improving my **Python & DSA skills**
 - 🌱 Exploring **System Design & Backend Development**
 - 🚀 Passionate about **Tech & Open-Source**  
 💬 **Ask Me About:** Java, C++, DSA, OOP, Linux and Web Technologies  
